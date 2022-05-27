@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+#font1{
+  font-family: 'Hanalei Fill', cursive;
+}
+#font2{
+  font-family: 'Arial', cursive;
+}
+#font3{
+  font-family: 'Jazz LET, fantasy', cursive;
+}
+#font4{
+  font-family: 'Stencil Std, fantasy ', cursive;
+}
+#font5{
+  font-family: 'Brush Script MT', cursive;
+}
+#font6{
+  font-family: 'Times New Roman', cursive;
+}
+#font7{
+  font-family: 'Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif', cursive;
+}
+#font8{
+  font-family: 'Hanalei Fill', cursive;
+  color:black;
+}
